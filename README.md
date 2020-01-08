@@ -10,7 +10,7 @@ Two separate images are created to run graybox in chrome and firefox.
          ChromeDriver v78.0.3904.70 and node v13.0 is installed.
 
 
-**Image 2: selenium-firefox**
+**Image 2: selenium-firefox**hkg
 
          **selenium-firefox** image to run graybox test in headless firefox, which uses base image
          **selenium/standalone-firefox:3.141** from docker hub. It has preinstalled Mozilla Firefox v70.0,
