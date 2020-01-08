@@ -1,6 +1,6 @@
 # Practice2
 
 
-```cmd
+```powershell
 shubham v
 ```
