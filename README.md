@@ -16,4 +16,4 @@ Two separate images are created to run graybox in chrome and firefox.
          **selenium/standalone-firefox:3.141** from docker hub. It has preinstalled Mozilla Firefox v70.0,
          geckodriver v0.26.0 and node v13.0 is installed.
 
-Link to [repository](https://github.cerner.com/MPagesEcosystem/mpages-docker-image) and created images are maintained in [Jfrog-artifactory](https://docker-snapshot.cernerrepos.net/webapp/#/artifacts/browse/simple/General/docker-snapshot/mpages-docker-images).
+Link to [repository](https://github.cerner.com/MPagesEcosystem/mpages-docker-image) and created images are maintained in [Jfrog-artifactory](https://docker-snapshot.cxcccernerrepos.net/webapp/#/artifacts/browse/simple/General/docker-snapshot/mpages-docker-images).
